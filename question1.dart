@@ -1,3 +1,8 @@
+//1. Write a function to calculate factorial of a number.
+// Example:
+// Input: 5
+// Output: Factorial of 5 is 120
+
 int factorial(int num) {
   if (num <= 1) {
     return 1;
